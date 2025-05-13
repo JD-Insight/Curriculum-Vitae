@@ -5,7 +5,7 @@ As an Agile Business Analyst, guide requirements, research, SDLC flow, test crea
 
 SUMMARY
 -------
-- Six years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
+- Five years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
 -	Overall experience of thirteen years in Investment Banking products including Capital Market, Private Equity and Fixed Income instruments; custodian activities like portfolio accounting, reconciliation and reporting on behalf of Investment Manager.
 -	Facilitated in business analysis and operations automation.
 -	Consistently drive product design discussions and organize the results into actionable requirements documents, system design, wireframes and user stories.
@@ -49,6 +49,8 @@ I have completed a variety of certificates in fields like technology, business a
 |-----------------------------------------------------------------------------|------------------|--------------------------------------|
 |Post Graduate Program in Artificial Intelligence and Machine Learning        |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Post%20Graduate%20Program%20in%20AI%20and%20ML.pdf)         | Great Lakes Executive Learning       |
 |Certified Business Analyst Professional™ (CBAP®)                             |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Certified%20Business%20Analysis%20Professional.pdf)         | IIBA-Endorsed                        |
+|PMI-PMP® Certification Training Course                                       |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/PMI-PMP%20Certification%20Training%20Course.pdf)          | LearnkartS
+|Google Project Management                                                    |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Google%20Project%20Management.pdf)                  | Google                |
 |Introduction to Agile Development and Scrum                                  |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/IBM%20Agile%20Development%20and%20Scrum.pdf)         | IBM                                  |
 |AWSome Day Online Conference                                                 |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/AWS%20Conference.png)         | Amazon Web Services                  |
 
