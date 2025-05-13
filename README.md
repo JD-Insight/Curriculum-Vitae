@@ -18,10 +18,10 @@ Technical Skills: JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), 
 Industry Knowledge: Agile-Scrum, Business Analysis, Requirements Gathering, Project Management<br>
 Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
 
-|PROFESSIONAL EXPERIENCE|
-
+PROFESSIONAL EXPERIENCE
+-----------------------
 CAREER HIGHLIGHTS
-
+-----------------
 Accolades from counterparts for analytical skills and good decision making. Undergone handful of successful projects at each designation.<br>
 Employee of the Quarter – Aug 2012.<br>
 Employee of the Month (Top Performer Award) – Oct 2014.<br>
