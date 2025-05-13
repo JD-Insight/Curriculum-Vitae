@@ -21,11 +21,19 @@ Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
 PROFESSIONAL EXPERIENCE
 
 CAREER HIGHLIGHTS
+
 Accolades from counterparts for analytical skills and good decision making. Undergone handful of successful projects at each designation.<br>
 Employee of the Quarter – Aug 2012.<br>
-Employee of the Month (Top Performer Award) – Oct 2014.
-	Earned Applause Awards:
--	Apr 2018: Recognised for exemplifying management excellence.
--	Sep 2018: Commended for initiatives that helped clients succeed.
-	Spotlight – June 2020.
-	Earned leadership recognition for delivering a critical project ahead of schedule – December 2024.
+Employee of the Month (Top Performer Award) – Oct 2014.<br>
+Earned Applause Awards:<br>
+-	Apr 2018: Recognised for exemplifying management excellence.<br>
+-	Sep 2018: Commended for initiatives that helped clients succeed.<br>
+Spotlight – June 2020.<br>
+Earned leadership recognition for delivering a critical project ahead of schedule – December 2024.<br>
+
+CERTIFICATIONS
+
+I have completed a variety of certificates in fields like technology, business analysis and project management.
+
+| Qualification | Certificate Link | Issuing Authority |
+|---------------|------------------|-------------------|
