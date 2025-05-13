@@ -40,10 +40,10 @@ I have completed a variety of certificates in fields like technology, business a
 
 | Qualification                                                               | Certificate Link | Issuing Authority                    |
 |-----------------------------------------------------------------------------|------------------|--------------------------------------|
-|Post Graduate Program in Artificial Intelligence and Machine Learning        |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | Great Lakes Executive Learning       |
+|Post Graduate Program in Artificial Intelligence and Machine Learning        |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Post%20Graduate%20Program%20in%20Artificial%20Intelligence%20and%20Machine%20Learning.pdf)         | Great Lakes Executive Learning       |
 |Certified Business Analyst Professional™ (CBAP®)                             |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | IIBA-Endorsed                        |
 |Introduction to Agile Development and Scrum                                  |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | IBM                                  |
-|AWSome Day Online Conference                                                 |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | Amazon Web Services                  |
+|AWSome Day Online Conference                                                 |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/AWS%20Conference.png)         | Amazon Web Services                  |
 
 EDUCATION
 ---------
