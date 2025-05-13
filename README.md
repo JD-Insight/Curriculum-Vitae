@@ -22,7 +22,7 @@ PROFESSIONAL EXPERIENCE
 -----------------------
 - Proven track record in managing end-to-end product development lifecycle, including user story creation, stakeholder engagement, and backlog grooming using JIRA and Confluence.
 - Skilled in SQL, Python, Power BI, Tableau, and Advanced Excel (including VBA) to develop dashboards, automate reporting, and support business insights.
-- Strong background in financial data tools like Investran, Geneva, Bloomberg, and reconciliation platforms.
+- Strong background in Investment Banking domain and financial data tools like Investran, Geneva, Bloomberg, and other industry based platforms.
 - Demonstrated ability to lead cross-functional teams, improve sprint velocity, and deliver high-quality financial solutions in compliance with audit and risk standards.
 - Passionate about streamlining operations and delivering value through data automation, continuous feedback loops, and process optimization.
 
