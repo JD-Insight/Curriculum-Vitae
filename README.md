@@ -51,7 +51,7 @@ I have completed a variety of certificates in fields like technology, business a
 |Certified Business Analyst Professional™ (CBAP®)                             |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Certified%20Business%20Analysis%20Professional.pdf)         | IIBA-Endorsed                        |
 |PMI-PMP® Certification Training Course                                       |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/PMI-PMP%20Certification%20Training%20Course.pdf)          | LearnkartS
 |Google Project Management                                                    |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/Google%20Project%20Management.pdf)                  | Google                |
-|Introduction to Agile Development and Scrum                                  |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/IBM%20Agile%20Development%20and%20Scrum.pdf)         | IBM                                  |
+|IBM Agile Development and Scrum                                  |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/IBM%20Agile%20Development%20and%20Scrum.pdf)         | IBM                                  |
 |AWSome Day Online Conference                                                 |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/blob/main/Certificates/AWS%20Conference.png)         | Amazon Web Services                  |
 
 EDUCATION
