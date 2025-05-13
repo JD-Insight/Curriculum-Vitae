@@ -1,5 +1,5 @@
 # Curriculum-Vitae
-OBJECTIVE<br>
+OBJECTIVE
 
 As an Agile Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
 
@@ -14,6 +14,18 @@ SUMMARY
 
 SKILLS
 
-Technical Skills: JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, VBA, Python, Tableau, Power BI
-	Industry Knowledge: Agile-Scrum, Business Analysis, Requirements Gathering, Project Management
-	Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
+Technical Skills: JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, VBA, Python, Tableau, Power BI<br>
+Industry Knowledge: Agile-Scrum, Business Analysis, Requirements Gathering, Project Management<br>
+Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
+
+PROFESSIONAL EXPERIENCE
+
+CAREER HIGHLIGHTS
+Accolades from counterparts for analytical skills and good decision making. Undergone handful of successful projects at each designation.<br>
+Employee of the Quarter – Aug 2012.<br>
+Employee of the Month (Top Performer Award) – Oct 2014.
+	Earned Applause Awards:
+-	Apr 2018: Recognised for exemplifying management excellence.
+-	Sep 2018: Commended for initiatives that helped clients succeed.
+	Spotlight – June 2020.
+	Earned leadership recognition for delivering a critical project ahead of schedule – December 2024.
