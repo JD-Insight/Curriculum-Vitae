@@ -36,7 +36,7 @@ Earned leadership recognition for delivering a critical project ahead of schedul
 
 PORTFOLIOS
 ----------
-[Data Science]https://github.com/JD-Insight/Data-Science-Projects
+[Data Science](https://github.com/JD-Insight/Data-Science-Projects)
 
 CERTIFICATIONS
 --------------
