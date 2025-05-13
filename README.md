@@ -47,6 +47,6 @@ I have completed a variety of certificates in fields like technology, business a
 
 EDUCATION
 ---------
-Master of Business Administration, Sathyabama University, Chennai
+Master of Business Administration, Sathyabama University, Chennai<br>
 Bachelor of Computer Applications, Prince Shri Venkateshwara Arts & Science College, Chennai
 
