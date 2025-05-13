@@ -40,3 +40,10 @@ I have completed a variety of certificates in fields like technology, business a
 |Post Graduate Program in Artificial Intelligence and Machine Learning        |     Link         | Great Lakes Executive Learning       |
 |Certified Business Analyst Professional™ (CBAP®)                             |     Link         | IIBA-Endorsed                        |
 |Introduction to Agile Development and Scrum                                  |     Link         | IBM                                  |
+|AWSome Day Online Conference                                                 |     Link         | Amazon Web Services                  |
+
+EDUCATION
+---------
+Master of Business Administration, Sathyabama University, Chennai
+Bachelor of Computer Applications, Prince Shri Venkateshwara Arts & Science College, Chennai
+
