@@ -4,7 +4,7 @@ OBJECTIVE
 As an Agile Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
 
 SUMMARY
-
+-------
 - Six years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
 -	Overall experience of thirteen years in Investment Banking products including Capital Market, Private Equity and Fixed Income instruments; custodian activities like portfolio accounting, reconciliation and reporting on behalf of Investment Manager.
 -	Facilitated in business analysis and operations automation.
@@ -13,7 +13,7 @@ SUMMARY
 -	Facilitated stakeholder meetings, training sessions for successful project execution with calm demeanour.
 
 SKILLS
-
+------
 Technical Skills: JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, VBA, Python, Tableau, Power BI<br>
 Industry Knowledge: Agile-Scrum, Business Analysis, Requirements Gathering, Project Management<br>
 Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
@@ -32,8 +32,11 @@ Spotlight – June 2020.<br>
 Earned leadership recognition for delivering a critical project ahead of schedule – December 2024.<br>
 
 CERTIFICATIONS
-
+--------------
 I have completed a variety of certificates in fields like technology, business analysis and project management.
 
-| Qualification | Certificate Link | Issuing Authority |
-|---------------|------------------|-------------------|
+| Qualification                                                               | Certificate Link | Issuing Authority                    |
+|-----------------------------------------------------------------------------|------------------|--------------------------------------|
+|Post Graduate Program in Artificial Intelligence and Machine Learning        |     Link         | Great Lakes Executive Learning       |
+|Certified Business Analyst Professional™ (CBAP®)                             |     Link         | IIBA-Endorsed                        |
+|Introduction to Agile Development and Scrum                                  |     Link         | IBM                                  |
