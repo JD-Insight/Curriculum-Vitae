@@ -34,6 +34,10 @@ Earned Applause Awards:<br>
 Spotlight – June 2020.<br>
 Earned leadership recognition for delivering a critical project ahead of schedule – December 2024.<br>
 
+PORTFOLIOS
+----------
+[Data Science]https://github.com/JD-Insight/Data-Science-Projects
+
 CERTIFICATIONS
 --------------
 I have completed a variety of certificates in fields like technology, business analysis and project management.
