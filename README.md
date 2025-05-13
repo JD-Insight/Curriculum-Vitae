@@ -1,4 +1,4 @@
-# CURRICULUM-VITAE
+# CURRICULUM VITAE
 OBJECTIVE
 ---------
 As an Agile Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
@@ -20,6 +20,9 @@ Financial Reporting and Market Data Tools: Investran, Geneva, Bloomberg
 
 PROFESSIONAL EXPERIENCE
 -----------------------
+
+
+
 CAREER HIGHLIGHTS
 -----------------
 Accolades from counterparts for analytical skills and good decision making. Undergone handful of successful projects at each designation.<br>
@@ -37,10 +40,10 @@ I have completed a variety of certificates in fields like technology, business a
 
 | Qualification                                                               | Certificate Link | Issuing Authority                    |
 |-----------------------------------------------------------------------------|------------------|--------------------------------------|
-|Post Graduate Program in Artificial Intelligence and Machine Learning        |     Link         | Great Lakes Executive Learning       |
-|Certified Business Analyst Professional™ (CBAP®)                             |     Link         | IIBA-Endorsed                        |
-|Introduction to Agile Development and Scrum                                  |     Link         | IBM                                  |
-|AWSome Day Online Conference                                                 |     Link         | Amazon Web Services                  |
+|Post Graduate Program in Artificial Intelligence and Machine Learning        |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | Great Lakes Executive Learning       |
+|Certified Business Analyst Professional™ (CBAP®)                             |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | IIBA-Endorsed                        |
+|Introduction to Agile Development and Scrum                                  |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | IBM                                  |
+|AWSome Day Online Conference                                                 |  [Link](https://github.com/JD-Insight/Curriculum-Vitae/tree/main/Certificates)         | Amazon Web Services                  |
 
 EDUCATION
 ---------
