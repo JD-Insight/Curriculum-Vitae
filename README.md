@@ -5,7 +5,7 @@ As an Agile Business Analyst, guide requirements, research, SDLC flow, test crea
 
 SUMMARY
 -------
-- Five years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
+- Six years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
 -	Overall experience of thirteen years in Investment Banking products including Capital Market, Private Equity and Fixed Income instruments; custodian activities like portfolio accounting, reconciliation and reporting on behalf of Investment Manager.
 -	Facilitated in business analysis and operations automation.
 -	Consistently drive product design discussions and organize the results into actionable requirements documents, system design, wireframes and user stories.
