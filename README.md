@@ -14,11 +14,11 @@ SUMMARY
 
 SKILLS
 ------
-**Technical Skills:** JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, VBA, Python, Tableau, Power BI<br>
-**Industry Knowledge:** Agile-Scrum, Business Analysis, Requirements Gathering, Project Management<br>
+**Technical Skills:** JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, Python, Tableau, Power BI<br>
+**Industry Knowledge:** Agile-Scrum, Business Analysis, Requirements Gathering, Requirement Life Cycle Management, Wireframes, MVP<br>
 **Financial Reporting and Market Data Tools:** Investran, Geneva, Bloomberg
 
-PROFESSIONAL EXPERIENCE
+PROFESSIONAL SUMMARY
 -----------------------
 - Proven track record in managing end-to-end product development lifecycle, including user story creation, stakeholder engagement, and backlog grooming using JIRA and Confluence.
 - Skilled in SQL, Python, Power BI, Tableau, and Advanced Excel (including VBA) to develop dashboards, automate reporting, and support business insights.
