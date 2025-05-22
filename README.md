@@ -1,4 +1,5 @@
 # CURRICULUM VITAE
+CSPO® | CBAP® (IIBA-Endorsed) | PGP-AIML | Agile-Scrum Certified
 OBJECTIVE
 ---------
 As an Agile Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
