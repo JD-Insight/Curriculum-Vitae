@@ -8,20 +8,27 @@ SUMMARY
 - Six years of experience in both Agile Systems Analysis and Waterfall Systems Analysis on web development projects.
 -	Overall experience of thirteen years in Investment Banking products including Capital Market, Private Equity and Fixed Income instruments; custodian activities like portfolio accounting, reconciliation and reporting on behalf of Investment Manager.
 -	Facilitated in business analysis and operations automation.
--	Consistently drive product design discussions and organize the results into actionable requirements documents, system design, wireframes and user stories.
+-	Consistently drive product design discussions and organize the results into actionable requirements documents, system design, epic, user stories and MVP.
 -	Strong analytical, problem-solving, effective communication and ability to work collaboratively across teams.
 -	Facilitated stakeholder meetings, training sessions for successful project execution with calm demeanour.
 
 SKILLS
 ------
-**Technical Skills:** JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, Python, Tableau, Power BI<br>
-**Industry Knowledge:** Agile-Scrum, Business Analysis, Requirements Gathering, Requirement Life Cycle Management, Wireframes, MVP<br>
-**Financial Reporting and Market Data Tools:** Investran, Geneva, Bloomberg
+**Technical Skills:** JIRA, Confluence, PowerPoint, Visio, Advanced Excel (Macros), SharePoint, SQL, Python, Azure DevOps<br>
+**Industry Knowledge:** Agile-Scrum, Business Analysis, Requirements Gathering, Requirement Life Cycle Management, Business Process Model and Notation (BPMN), Minimum Viable Product (MVP)<br>
+**Financial Reporting and Market Data Tools:** Investran, Geneva, Bloomberg, Recon Desktop, Transaction Lifecycle Management (TLM), WSO
 
 PROFESSIONAL SUMMARY
 -----------------------
-- Proven track record in managing end-to-end product development lifecycle, including user story creation, stakeholder engagement, and backlog grooming using JIRA and Confluence.
-- Skilled in SQL, Python, Power BI, Tableau, and Advanced Excel (including VBA) to develop dashboards, automate reporting, and support business insights.
+- Led Agile product delivery by creating epics, user stories, and acceptance criteria in JIRA and Confluence, ensuring alignment with business objectives and MVP scope.
+- Participated in Agile ceremonies (sprint planning, reviews, retrospectives) and facilitated continuous backlog grooming and release readiness for smoother delivery cycles.
+- Conducted walkthroughs, demos, and feedback sessions with developers, testers, and stakeholders to ensure solution accuracy and business alignment.
+- Reduced project cycle time by 30% through effective tracking of sprint velocity, burndown charts, and backlog health using JIRA.
+- Improved product quality by 11% by conducting structured requirements elicitation sessions and refining user stories based on real-world scenarios.
+- Performed detailed SQL analysis and validations, including reviewing stored procedures and maintaining traceability matrices to ensure data integrity and logic accuracy.
+- Managed full lifecycle business analysis, including AS-IS/TO-BE process mapping, BRD/FRD creation, gap analysis, and workflow improvement recommendations.
+- Drove automation of private equity calculations, reducing manual work by 95% and ensuring compliance with audit and regulatory standards.
+- Contributed to UI/UX design reviews to ensure intuitive user experiences aligned with business needs and operational workflows.
 - Strong background in Investment Banking domain and financial data tools like Investran, Geneva, Bloomberg, and other industry based platforms.
 - Demonstrated ability to lead cross-functional teams, improve sprint velocity, and deliver high-quality financial solutions in compliance with audit and risk standards.
 - Passionate about streamlining operations and delivering value through data automation, continuous feedback loops, and process optimization.
