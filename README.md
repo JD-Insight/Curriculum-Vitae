@@ -26,7 +26,7 @@ PROFESSIONAL SUMMARY
 - Reduced project cycle time by 30% through effective tracking of sprint velocity, burndown charts, and backlog health using JIRA.
 - Improved product quality by 11% by conducting structured requirements elicitation sessions and refining user stories based on real-world scenarios.
 - Performed detailed SQL analysis and validations, including reviewing stored procedures and maintaining traceability matrices to ensure data integrity and logic accuracy.
-- Managed full lifecycle business analysis, including AS-IS/TO-BE process mapping, BRD/FRD creation, gap analysis, and workflow improvement recommendations.
+- Managed full lifecycle business analysis, including AS-IS/TO-BE process mapping, MoSCoW and gap analysis, and workflow improvement recommendations.
 - Drove automation of private equity calculations, reducing manual work by 95% and ensuring compliance with audit and regulatory standards.
 - Contributed to UI/UX design reviews to ensure intuitive user experiences aligned with business needs and operational workflows.
 - Strong background in Investment Banking domain and financial data tools like Investran, Geneva, Bloomberg, and other industry based platforms.
