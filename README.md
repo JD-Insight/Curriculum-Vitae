@@ -1,5 +1,5 @@
 # CURRICULUM VITAE
-CSPO® | CBAP® (IIBA-Endorsed) | PGP-AIML | Agile-Scrum Certified
+PGP-AIML | CSPO® | PMP® (Trained) | Agile-Scrum Certified
 -------
 OBJECTIVE
 ---------
