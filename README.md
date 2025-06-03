@@ -20,7 +20,7 @@ SKILLS
 **Data & Reporting Tools:**		Excel (Advanced Excel & Macros), Tableau, Power BI<br>
 **Database & Languages:**		SQL, Python<br>
 **Domain-Specific Applications:**	Investran, Geneva, Bloomberg, Recon Desktop, Transaction Lifecycle Management (TLM), WSO<br>
-**Methodologies & Frameworks:**	Agile-Scrum, Waterfall, SDLC (Software Development Life Cycle)<br)
+**Methodologies & Frameworks:**	Agile-Scrum, Waterfall, SDLC (Software Development Life Cycle)<br>
 **Business Analysis Skills:**		Requirements Elicitation / Gathering, Requirement Documentation (BRD, FRD), Requirement Life Cycle Management, Business Process Model and Notation (BPMN), UML Diagram, Impact Analysis, Stakeholder Management, Process Reengineering & Gap Analysis, Test Plan & UAT Coordination, Agile Documentation: User Stories, Acceptance Criteria, MoSCoW, Minimum Viable Product (MVP)<br>
 **Soft Skills:**			Analytical and Problem-Solving Skills, Calm Demeanour, Cross-Functional Team Collaboration, Presentation and Stakeholder Communication
 
