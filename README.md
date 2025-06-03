@@ -3,7 +3,7 @@ PGP-AIML | CSPO® | PMP® (Trained) | Agile-Scrum Certified
 -------
 OBJECTIVE
 ---------
-As an Agile Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
+As a Business Analyst, guide requirements, research, SDLC flow, test creation and delivery of vendor or custom software.
 
 SUMMARY
 -------
